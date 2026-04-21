@@ -1,0 +1,11 @@
+import PropsDrilling from "./propsdrilling.jsx";
+
+function App() {
+  return (
+    <div>
+      <PropsDrilling />
+    </div>
+  );
+}
+
+export default App;

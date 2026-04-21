@@ -1,0 +1,12 @@
+import JSX from "./JSXexample";
+
+function App() {
+  return (
+    <div>
+      <h1>JSX Topic</h1>
+      <JSX />
+    </div>
+  );
+}
+
+export default App;

@@ -1,0 +1,12 @@
+// import React from "react";
+// import Message from "./message.jsx";
+// function App(){
+//     return(
+//         <div>
+//         <h1>My first React app</h1>
+//         <Message \>
+//         </div>
+//     )
+// };
+
+// export default App;

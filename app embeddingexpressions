@@ -1,0 +1,11 @@
+import Embedding from "./Embedding.jsx";
+
+function App() {
+  return (
+    <div>
+      <Embedding />
+    </div>
+  );
+}
+
+export default App;

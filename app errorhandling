@@ -1,0 +1,11 @@
+import ErrorHandling from "./ErrorHandling.jsx";
+
+function App() {
+  return (
+    <div>
+      <ErrorHandling />
+    </div>
+  );
+}
+
+export default App;

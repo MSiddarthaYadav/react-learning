@@ -1,0 +1,7 @@
+// import React, { forwardRef } from "react";
+
+// const Child = forwardRef((props, ref) => {
+//   return <input ref={ref} placeholder="Child Input" />;
+// });
+
+// export default Child;

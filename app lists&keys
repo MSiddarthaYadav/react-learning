@@ -1,0 +1,10 @@
+// import UserList from "./lists&keys.jsx";
+
+// function App() {
+//   const users = [
+//     { id: 1, name: "Siddartha" },
+//     { id: 2, name: "Rahul" }
+//   ];
+
+//   return <UserList users={users} />;
+// }

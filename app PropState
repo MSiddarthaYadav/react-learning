@@ -1,0 +1,15 @@
+// import React from "react";
+// import Counter from "./PropsState";
+
+// function App() {
+//   return (
+//     <div>
+//       <h1>Props + State Example</h1>
+
+//       {/* sending props */}
+//       <Counter name="Siddartha" />
+//     </div>
+//   );
+// }
+
+// export default App;
